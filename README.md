@@ -74,7 +74,7 @@ Key visual design choices include:
 
 * **Color Palette & Contrast:** Dark canvas mode (`data-theme="dark"`) minimizes eye strain. Cyan (`#38bdf8`) serves as the primary accent color for active elements, links, and high-priority skill badges. Lavender-indigo (`#818cf8`) is applied consistently to organization and institutional names to create a distinct secondary layer of semantic meaning. Card containers utilize elevated surface backgrounds with subtle boundary borders for structured separation.
 * **Visual Assets & Branding:** The candidate's circular profile picture provides immediate personal recognition, styled with a solid cyan border and drop shadow. Organization and educational logos (44×44px) are embedded alongside timeline items in clean white rounded tiles with subtle borders, ensuring high visual contrast and brand authenticity on dark backgrounds.
-* **Typography & Micro-Interactions:** Native system font stacks ensure zero-latency rendering and maximum sharpness across all operating systems. Interactive elements, including badges and navigation links, feature smooth border-color and color transitions on hover, deliberately omitting disruptive movement or transform animations to ensure a stable, distraction-free reading experience.
+* **Typography & Micro-Interactions:** Native system font stacks ensure zero-latency rendering and maximum sharpness across all operating systems. Interactive elements, including badges and navigation links, feature smooth border-color and color transitions on hover to ensure a stable, distraction-free reading experience.
 * **Responsive Layout:** The two-column Flexbox structure effortlessly collapses into an intuitive single-column linear flow on mobile screens (<820px).
 
 ---
