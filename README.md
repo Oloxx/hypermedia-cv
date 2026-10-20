@@ -1,9 +1,9 @@
 # Hypermedia Project - Part 1: Curriculum Vitae Website
 
-**Author:** Àlex Rodríguez Artells
-**Degree:** Grau en Enginyeria Informàtica (GEINF)
-**Live Site:** [https://oloxx.github.io/hypermedia-cv/](https://oloxx.github.io/hypermedia-cv/)
-**Figma Project Link:** [Figma Design](https://www.figma.com/design/ciIsrRkTb90COdrX5sBpSE/Hypermedia-Project?node-id=0-1&t=vMILuhZtITJT3J6N-1)
+- **Author:** Àlex Rodríguez Artells
+- **Degree:** Grau en Enginyeria Informàtica (GEINF)
+- **Live Site:** [https://oloxx.github.io/hypermedia-cv/](https://oloxx.github.io/hypermedia-cv/)
+- **Figma Project Link:** [Figma Design](https://www.figma.com/design/ciIsrRkTb90COdrX5sBpSE/Hypermedia-Project?node-id=0-1&t=vMILuhZtITJT3J6N-1)
 
 ---
 
